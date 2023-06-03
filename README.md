@@ -8,7 +8,7 @@ We determined that the data was incomplete and therfore was renamed to
 
 * data-broken.tar.xz
 
-## Data from Jube 1, 2023
+## Data from June 1, 2023
 
 The data can be downloaded from this repository with:
 
